@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# File Upload with React and AWS S3 Buckets
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Note, you need your own AWS S3 bucket set up, with AWS IAM, lambda function, API Gateway, and S3 bucket.
 
 ## Available Scripts
 
